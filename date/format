@@ -1,0 +1,20 @@
+%a	Weekday abbrevated names Sun, Mon...Sat
+%A	Weekday Full names	Sunday,Monday...Saturday
+%w	Weekday as decimal	0,1,2,3,..6
+%d      Day of the month 	01,02,....,31
+%b      Month as abbre name	Jan,Feb,...,Dec
+%B      Month as full name	January,February,.....,December
+%m      Month as zero padded    01,02,....,12
+%y      Year without century    00,01,....99
+%Y      Year with century       1970,1988,2001...2013
+%H      Hour as a zero padded   01,02,...23
+%I      Hour as a zero-padded   01,02,...,12 
+%p	AM/PM
+%M      Minute as Zero-padded   00,01,.....59
+%S      Second as Zero-padded   00,01,.....59
+%f      Microsecond as decimal  000000,000001,...999999
+%z      UTC offset in the form  +0000, -0400, +1030
+%Z	Time zone name		UTC, EST, CST
+%j 	Day of the year as      001,002,....366
+%U	week number of year	00,01,...,53
+
